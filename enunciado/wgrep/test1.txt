@@ -1,0 +1,5 @@
+Esto es una prueba para el uso de grep
+Deberá imprimir aquellas líneas donde encuentre
+un valor similar al usando en el comando
+Esto podrá ser observado como una impresión
+en la consola

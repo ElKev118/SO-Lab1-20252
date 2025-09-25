@@ -1,7 +1,7 @@
 #include <stdio.h>
 int maximo(int a, int b); /* prototipo de funcion */
 
-main() {
+int main() {
     int x, y;
     int max;
     printf("Introduzca dos numeros: ");
